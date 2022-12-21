@@ -35,3 +35,7 @@ THEN I exit the application, and the HTML is generated
 ## Screenshot
 
 ![screencapture-127-0-0-1-5500-dist-team-html-2022-12-20-18_51_46](https://user-images.githubusercontent.com/114509238/208795325-a1f82619-b268-4def-ba09-7ae6164b97e3.png)
+
+## Walktrough video
+
+
