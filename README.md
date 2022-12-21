@@ -39,3 +39,4 @@ THEN I exit the application, and the HTML is generated
 ## Walktrough video
 
 
+[WALKTROUGH](https://drive.google.com/file/d/1ZYQv4v29wr0K7Bif9AQW99bghVGqwGjz/view?usp=sharing).
